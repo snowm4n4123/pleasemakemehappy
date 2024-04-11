@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Spines
+  m_EditorClassIdentifier: 
+  m_GroupName: Spines
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 90266ffa5494a454b8c201fdd08aac4e
+  m_SerializeEntries:
+  - m_GUID: 1e308705ac9a774499fb319ab993deb4
+    m_Address: knight_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf9ec093fe189a04d92278eaa0f28574
+    m_Address: goblin_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47fa580edd880c749a479a92662f21a4
+    m_Address: wizard_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5db645375f6a8ba488a5b94d60cf214e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c8037b2b4c309664bb03f2aa5001d2d8, type: 2}
+    - {fileID: 11400000, guid: 80d9bf425297ac441885809fd192dbb5, type: 2}
