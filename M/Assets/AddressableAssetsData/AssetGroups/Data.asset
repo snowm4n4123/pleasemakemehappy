@@ -15,17 +15,23 @@ MonoBehaviour:
   m_GroupName: Data
   m_Data:
     m_SerializedData: []
-  m_GUID: 2c20333bef054bc43b2b5f840e3695ec
+  m_GUID: 4ef6f93e6dc9c1540812bda65fca63fe
   m_SerializeEntries:
-  - m_GUID: a2713efb978f3e644ae9953755c02df1
-    m_Address: TestData
+  - m_GUID: af0f6ec8a7cc58f409dbdf1c9cd083da
+    m_Address: CreatureData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a6f1cf5677609e4d9c57e4062d13c83
+    m_Address: EnvData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 5db645375f6a8ba488a5b94d60cf214e, type: 2}
+  m_Settings: {fileID: 11400000, guid: 3b34cd1d0f58d714b8b4fcf9c86bdbb4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: a55ab1d50c4a1d24bbfa21309565ac88, type: 2}
-    - {fileID: 11400000, guid: 772335711a1e4cd4694e878ea5b0cff9, type: 2}
+    - {fileID: 11400000, guid: 42655c730e91c0748b6c5977bf78c513, type: 2}
+    - {fileID: 11400000, guid: c28da11849069b044b135de6e3d591e4, type: 2}

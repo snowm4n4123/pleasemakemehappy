@@ -15,10 +15,34 @@ MonoBehaviour:
   m_GroupName: Spines
   m_Data:
     m_SerializedData: []
-  m_GUID: 90266ffa5494a454b8c201fdd08aac4e
+  m_GUID: 104219c8489c7c34bb509ca4cd5aa287
   m_SerializeEntries:
+  - m_GUID: 47fa580edd880c749a479a92662f21a4
+    m_Address: wizard_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1e308705ac9a774499fb319ab993deb4
     m_Address: knight_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e42fb9220d96d7e4c86a9de95818b96b
+    m_Address: wood_2_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfd750e2c65c7944e836f8353fec2cea
+    m_Address: wood_1_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 378dd7a7a523b164496aa5b261580005
+    m_Address: bear_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
@@ -29,15 +53,33 @@ MonoBehaviour:
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 47fa580edd880c749a479a92662f21a4
-    m_Address: wizard_SkeletonData
+  - m_GUID: c04a934a0d842c449af7df0ced7349d3
+    m_Address: slime_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df80bf8d422a13445870a721c43099d8
+    m_Address: spider_common_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ce17ac50939a804bb5f392fb7971eef
+    m_Address: spider_rare_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d89853370f7a3164f99dbc20eea32225
+    m_Address: wood_common_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 5db645375f6a8ba488a5b94d60cf214e, type: 2}
+  m_Settings: {fileID: 11400000, guid: 3b34cd1d0f58d714b8b4fcf9c86bdbb4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: c8037b2b4c309664bb03f2aa5001d2d8, type: 2}
-    - {fileID: 11400000, guid: 80d9bf425297ac441885809fd192dbb5, type: 2}
+    - {fileID: 11400000, guid: 26444c2ed8af81d44805e10bb2f76d5e, type: 2}
+    - {fileID: 11400000, guid: 4a34936bfeb8ee64a834ca62d49cf283, type: 2}
